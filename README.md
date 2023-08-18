@@ -1,2 +1,2 @@
 # project2
-this project was created fro local system
+this project was created from local system
